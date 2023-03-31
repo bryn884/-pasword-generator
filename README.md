@@ -1,1 +1,1 @@
-# -pasword-generator
+in this project a pasword generator was created, allowing users to choose between a selection of criteria that they want their password to meet, in doing this project, it allowed us to deploy the methods we were taught this week in relation to javascript
